@@ -1,0 +1,20 @@
+.heading
+{
+    width: 100%;
+    text-align: left;
+}
+
+.heading h2
+{
+    display: inline;    
+}
+
+.big_image
+{
+    width: 100%;
+}
+
+#start ,#status
+{
+    font-size: 22px;
+}
